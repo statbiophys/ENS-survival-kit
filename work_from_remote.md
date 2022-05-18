@@ -45,5 +45,5 @@ ssh <machine>
 ### Copy/Paste Files
 To copy/paste a file from a remote machine to your local machine (and viceversa) you can use the following command
 ```
-scp -o ProxyCommand="ssh -W %h:%p user@bastion.lpt.ens.fr" <username>@<machine>.lpt.ens.fr:~/path/to/file .
+scp -o ProxyCommand="ssh -W %h:%p <username>@bastion.phys.ens.fr" <username>@<machine>.lpt.ens.fr:~/path/to/file .
 ```
