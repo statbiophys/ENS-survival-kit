@@ -1,6 +1,6 @@
 # Booking a small room
 
-Small rooms can be booked by editing this [oogle doc file](https://docs.google.com/spreadsheets/d/1rmqiIg6bMBtty20VcdChoRiTVdpo1yh05iURIutTssA/edit). Instructions are in the file.
+Small rooms can be booked by editing this [google doc file](https://docs.google.com/spreadsheets/d/1rmqiIg6bMBtty20VcdChoRiTVdpo1yh05iURIutTssA/edit). Instructions are in the file.
 
 # Booking a large room
 
