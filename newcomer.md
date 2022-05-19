@@ -2,12 +2,12 @@
 Yes, we now, it's a lot to digest. 
 
 ## The (Theoretical) Minimum
-Reach out for the _Resources Humaines_ (office L059, e-mail pole-rh@phys.ens.fr) and ask for 
+Reach out for the `Resources Humaines` (office L059, e-mail pole-rh@phys.ens.fr) and ask for 
 
-1) your contract (this require a bank account and other amenities, see last section);
-2) an e-mail address <firstname.lastname>@phys.ens.fr;
-3) the "carte multifunction" to enter the ENS buildings (and pay at the university cantine).
-EXTRA : it could be smart to ask already for the authorization to access the campus 24h/7d and to use the "local vélo" if needed. 
+1) your __contract__ (this require a bank account and other amenities, see last section);
+2) your __phys.ens__ e-mail address <firstname.lastname>@phys.ens.fr;
+3) your __"carte multifunction"__ to enter the ENS buildings (and pay at the university cantine).
+EXTRA : it could be smart to ask already for the authorization to access the campus 24h and to use the "local vélo" if needed. 
 
 If you are a PhD student you will have to deal with some additional burocracy :
 - At the very beginnning you should enroll through the [EDPIF page](https://www.edpif.org/en/edpif/index.php), the doctoral school.
@@ -15,9 +15,9 @@ If you are a PhD student you will have to deal with some additional burocracy :
 
 ## I am a neo-Parisian, _au secours_
 For many of these practices you will generally need to provide 
-1) a French domicile (see section below);
-2) a French mobile phone number;
-3) a French bank account.
+1) a French __domicile__ (see section below);
+2) a French __phone number__;
+3) a French __bank account__.
 
 ### A house in Paris...
 ... it's hard to find, especially from people not on site and not speaking French. Tipically, the most effective solution is to go though networks of friends and do not hesitate to much: supply is low and demand is high.
@@ -27,7 +27,7 @@ There are some internal partnership with the university which might make it easy
 For a flat share we suggest taking a look on the [Cartedescolocs](https://www.lacartedescolocs.fr/) or on Facebook groups ([Paris Appartement](https://www.facebook.com/groups/424628364407944) or [parischambresalouer](https://www.facebook.com/groups/parischambresalouer)), but beware because there are a lot of scums. Another page which could be worth a try is [Appartager](https://www.appartager.com/).
 
 ## I also want to work eventually
-To access the Wifi `PHYS` and the LPENS clusters of the group you need to got to the _Service Informatique_ (office L057 , e-mail si@phys.ens.fr).
+To access the Wifi `PHYS` and the LPENS clusters of the group you need to got to the `Service Informatique` (office L057 , e-mail si@phys.ens.fr).
 They will register the IP of all the devices you want to use to connect which you will have to phisically bring to them. NOTE: if you want to connect via LAN and you use a toggle you will need to register that too.
 
 ## A pawn in the Doctoral School Chessboard 
@@ -42,10 +42,10 @@ According to your contract, you could have an extra layer of complexity given by
 - __CNRS__ :
 - __Sanofi__ :
 
-## I am a grown-up-Parisian
-
-CAF (studente)
-chiedere trasporti (forfait Imagine R étudiant / mensile)
-responsabilité civile (assurance maison?), 
-CARTE VITALE
-mutuelle etudiante HEYME
+## I am a grown-up-Parisian now
+When you started to settle, you might start to deal with the following:
+- __CAF__ 
+- __public transport__  forfait Imagine R étudiant
+- __responsabilité civile__ (+assurance maison?)
+- __CARTE VITALE__
+- __mutuelle__ 
