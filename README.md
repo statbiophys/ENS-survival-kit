@@ -1,4 +1,4 @@
-# ENS-survival-kit
+# ENS Survival Kit
 Useful tools for your life at ENS ✌️
 
 If you...
