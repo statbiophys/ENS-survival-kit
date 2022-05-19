@@ -1,5 +1,5 @@
 # ENS Survival Kit
-Useful tools for your life at ENS ✌️
+Useful tools for your life at ENS ✌️ 
 
 If you...
 
@@ -11,3 +11,5 @@ If you...
 - ... want to [book a room](booking_a_room.md);
 - ... need to fill an [ordre de mission](ordre_de_mission.md);
 - ... want to have access to the [ministry cantine](ministry_cantine.md).
+
+This a beta, help us improve it!
