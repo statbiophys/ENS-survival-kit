@@ -15,14 +15,10 @@ NOTE: the cantine is situated in the Ministère de l'Enseignement supérieur, de
    - Tel du service: 01 44 32 20 01
    - Adresse mail de contact
    - Signature du demandeur (not du responsable!)
-   
+   - Précisez s'il vous plaît votre indice de rémunération (indiqué en haut du bulletin de salaire CNRS)
 
- 
+Those documents need to be printed, filled manually, and put in the mailbox of Tatiana NGOILEYE 059A (ground floor, human resources room).
+A passport-size photo must be sent by email to pôle-rh@phys.ens.fr.
 
-- Précisez s'il vous plaît votre indice de rémunération (indiqué en haut du bulletin de salaire CNRS)
-
-- Nom et signature du Responsable : ne rien ajouter (nous complèterons au moment de la signature de M. Jean-Marc BERROIR, directeur du LPENS )
-
-- Signature de l'agent à appposer au niveau "signature du demandeur"
-For any information ask Olga, which shold take care of the process.
+For any problem, contact Olga Hodges of the human resources.
 
