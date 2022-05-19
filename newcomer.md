@@ -30,7 +30,7 @@ For a flat share we suggest taking a look on the [Cartedescolocs](https://www.la
 To access the Wifi `PHYS` and the LPENS clusters of the group you need to got to the _Service Informatique_ (office L057 , e-mail si@phys.ens.fr).
 They will register the IP of all the devices you want to use to connect which you will have to phisically bring to them. NOTE: if you want to connect via LAN and you use a toggle you will need to register that too.
 
-## A pawn in the Doctoral School Hierarchy 
+## A pawn in the Doctoral School Chessboard 
 The doctoral school is going to be a matrioska of institutions :
 - __Université PSL__ : Paris Science et Lettres, a broad universities network in Paris ([link](https://psl.eu/en));
 - __EDPIF__ : École Doctorale Physique en Île-de-France, network of physics departments in Paris ([link](https://www.edpif.org/en/edpif/index.php));
