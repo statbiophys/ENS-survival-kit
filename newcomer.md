@@ -39,7 +39,7 @@ The doctoral school is going to be a matrioska of institutions :
 - __statbiophys__ : this is us, we also have a website [here](https://sites.google.com/view/statbiophysens)!
 
 According to your contract, you could have an extra layer of complexity given by your employer :
-- __CNRS__ : Centre national de la recherche scientifique, see the proper guide [here](cnrs_employee.md)
+- __CNRS__ : Centre National de la Recherche Scientifique, see the proper guide [here](cnrs_employee.md).
 - __Sanofi__ : ...
 
 ## I am a grown-up-Parisian now
