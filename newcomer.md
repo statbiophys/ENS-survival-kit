@@ -20,7 +20,7 @@ For many of these practices you will generally need to provide
 3) a French __bank account__.
 
 ### A house in Paris...
-... it's hard to find, especially from people not on site and not speaking French. Tipically, the most effective solution is to go though networks of friends and do not hesitate to much: supply is low and demand is high.
+... it's hard to find, especially from people not on site and not speaking French. Tipically, the most effective solution is to go through networks of friends and do not hesitate to much: supply is low and demand is high.
 
 There are some internal partnership with the university which might make it easy to find a place at the Cité Internationale Universitaire de Paris, ask how to ask for recommendations. Here is the [link](https://www.ciup.fr/demander-hebergement/) for applying.
 
