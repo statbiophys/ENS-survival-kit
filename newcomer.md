@@ -16,8 +16,8 @@ If you are a PhD student you will have to deal with some additional burocracy :
 ## I am a neo-Parisian, _au secours_
 For many of these practices you will generally need to provide 
 1) a French __domicile__ (see section below);
-2) a French __phone number__ (most of us have FREE, but it's not a guarantee of convenience);
-3) a French __bank account__ (most of us have BNP, but again it's not a guarantee).
+2) a French __phone number__ (some of us have FREE, but it's not a guarantee of convenience);
+3) a French __bank account__ (some of us have BNP, but again it's not a guarantee).
 
 ### A house in Paris...
 ... it's hard to find, especially from people not on site and not speaking French. Tipically, the most effective solution is to go through networks of friends and do not hesitate too much: supply is low and demand is high.
