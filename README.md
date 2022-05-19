@@ -3,7 +3,7 @@ Useful tools for your life at ENS ✌️
 
 If you...
 
-- ... have just landed in Paris, you should [start with this](instructions/newcomer.md);
+- ... have just landed in Paris, [start with this](instructions/newcomer.md);
 - ... are [employed by CNRS](instructions/cnrs_employee.md);
 - ... want to obtain your [ENS credentials](instructions/ens_credentials-eduroam.md) (e.g. for using eduroam);
 - ... need to access our [data server piast](instructions/data_server-piast.md);
