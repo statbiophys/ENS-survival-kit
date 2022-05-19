@@ -1,6 +1,7 @@
 # Ministry cantine
 
 Procedure for applying to the best cantine in town, which is at the Descartes ministry, entrance at **25, Rue de la Montagne Ste Geneviève**.
+NOTE: the cantine is situated in the Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation and is accessible only for people paied through CNRS.
 
 - Fill only the following fields of the document "1 Nouveau formulaire..." in the folder ministry_cantine_files of this repo:
    - Nom Prénom
