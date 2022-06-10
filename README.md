@@ -13,5 +13,6 @@ If you...
 - ... want to [book a room](instructions/booking_a_room.md);
 - ... need to fill an [ordre de mission](instructions/ordre_de_mission.md);
 - ... want to have access to the [ministry cantine](instructions/ministry_cantine.md);
-- ... need to [print a poster](instructions/print_poster.md);
+- ... need to [print a poster](instructions/print_poster.md).
+
 This a beta, help us improve it!
