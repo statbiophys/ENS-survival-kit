@@ -13,6 +13,10 @@ If you are a PhD student you will have to deal with some additional burocracy :
 - At the very beginnning you should enroll through the [EDPIF page](https://www.edpif.org/en/edpif/index.php), the doctoral school.
 - Once obtained your phys.ens credentials, create an account on the [ADUM page](https://www.adum.fr/) for the procedures of all PhD students inscribed in France.
 
+## I also want to work eventually
+To access the Wifi `PHYS` and the LPENS clusters of the group you need to got to the `Service Informatique` (office L057 , e-mail si@phys.ens.fr).
+They will register the IP of all the devices you want to use to connect which you will have to phisically bring to them. NOTE: if you want to connect via LAN and you use a toggle you will need to register that too.
+
 ## I am a neo-Parisian, _au secours_
 For many of these practices you will generally need to provide 
 1) a French __domicile__ (see section below);
@@ -25,10 +29,6 @@ For many of these practices you will generally need to provide
 There are some internal partnership with the university which might make it easy to find a place at the Cité Internationale Universitaire de Paris, ask how to ask for recommendations. Here is the [link](https://www.ciup.fr/demander-hebergement/) for applying.
 
 For a flat share we suggest taking a look on the [Cartedescolocs](https://www.lacartedescolocs.fr/) or on Facebook groups ([Paris Appartement](https://www.facebook.com/groups/424628364407944) or [parischambresalouer](https://www.facebook.com/groups/parischambresalouer)), but beware because there are a lot of scums. Another page which could be worth a try is [Appartager](https://www.appartager.com/).
-
-## I also want to work eventually
-To access the Wifi `PHYS` and the LPENS clusters of the group you need to got to the `Service Informatique` (office L057 , e-mail si@phys.ens.fr).
-They will register the IP of all the devices you want to use to connect which you will have to phisically bring to them. NOTE: if you want to connect via LAN and you use a toggle you will need to register that too.
 
 ## A pawn in the Doctoral School Chessboard 
 The doctoral school is going to be a matrioska of institutions :
