@@ -13,5 +13,7 @@ To obtain Mathematica got to the page [Service de Prestations Informatiques](htt
 
 You will be asked to fill a form with your ENS informations and it will automatically forward the request to the "Correspondant logiciel de l'ENS" for approval. Wait for the e-mail containing the license (it can take also a week), create a Wolfram ID, acces Wolfram User Portal, register the license you just received and download the installer.
 
-
+## Zoom
+You can get a CNRS zoom account, which allows you to host meetings that are longer than 40 minutes. 
+You can follow the information here: http://www.dr8.cnrs.fr/CNRS-Hebdo/Actualites/12238/Suite.aspx
 
