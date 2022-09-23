@@ -30,7 +30,11 @@ Packages: don’t add fancy formatting latex packages unless you really need to,
 
 ## Scripts
 
-We have an amazing script, ltxclean.pl, which creates a single, standalone tex file that merges together all the subfiles called by main (or main_nar in our case), as well as the formatted bibliography. We’ll use that to submit to arxiv and to the journal (along with the pdf of the figures, and that’s it! No need for auxiliary files). Only to be used at then end, at submission: ./ltxclean.pl main.tex > main_clean.tex. *NEVER EDIT THE CLEAN VERSION*.
+We have an amazing script, ltxclean.pl, which creates a single, standalone tex file that merges together all the subfiles called by main (or main_nar in our case), as well as the formatted bibliography. We’ll use that to submit to arxiv and to the journal (along with the pdf of the figures, and that’s it! No need for auxiliary files). Only to be used at then end, at submission: 
+```
+./ltxclean.pl main.tex > main_clean.tex
+```
+**NEVER EDIT THE CLEAN VERSION**.
 
 There’s another script, copy_figures.sh, which finds figure called in the whole document (including subfigures), and copy the corresponding pdf files into a directory of choice. Useful for submitting to arXiv. Use with e.g. ./copy_figures.sh main.tex arXiv/
 
