@@ -1,6 +1,6 @@
 # Template / Example
 
-Look at an example by downloading [this](https://drive.google.com/file/d/19nIBBuFWWd3YY6WygNx6L820paZ6cSjX/view?usp=sharing)
+Look at an example by downloading [this](https://drive.google.com/file/d/19nIBBuFWWd3YY6WygNx6L820paZ6cSjX/view?usp=sharing).
 
 ## Subfiles, preprint vs journal templates
 
