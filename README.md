@@ -1,4 +1,4 @@
-# ENS Survival Kit
+# École Normale Supérieure - Survival Kit
 Useful tools for your life at ENS ✌️ 
 
 If you...
@@ -17,3 +17,11 @@ If you...
 - ... need to [print a poster](instructions/print_poster.md).
 
 This a beta, help us improve it!
+
+# Paris Santé Campus - Survival Kit
+Useful tools for your (new) life at FRESK ✌️
+
+If you...
+
+- ... have just landed in Paris, [start with this](instructions/place_older.md);
+- ... need to [use the printer](instructions/place_older.md);
