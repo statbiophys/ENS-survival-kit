@@ -16,6 +16,7 @@ If you are a PhD student you will have to deal with some additional burocracy :
 ## I also want to work eventually
 To access the Wifi `PHYS` and the LPENS clusters of the group you need to got to the `Service Informatique` (office L057 , e-mail si@phys.ens.fr).
 They will register the IP of all the devices you want to use to connect which you will have to phisically bring to them. At the same time, you can ask for access to the group servers (e.g.  "corto", "zuzia", ...).
+
 Throughout all your work time you will have to code, so we suggest taking a look at these [good programming practices](https://github.com/mariaref/ENS_CDS_SeminarSlides/blob/master/2021-12-06%20-%20Good%20Programming%20Practices%2C%20Computer%20Tools%20and%20QOL%20Tricks%20-%20Florentin%20Guth.pdf) as presented by our friends at CSD (Centre Sciences des Données de l'ENS). 
 
 NOTE: if you want to connect via LAN and you use a toggle you will need to register that too.
