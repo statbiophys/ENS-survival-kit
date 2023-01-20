@@ -9,8 +9,9 @@ i.e. you are paid by a public organization and will have to follow certain presc
 ## Book a Flight/Train/Hotel
 [Rydoo](https://travel.rydoo.com/)
 
-## Get a Refund for Public Transport
-[Ariane](https://cnrs.employee.eu.people-doc.com/home)
+## Get a Refund or ask for Cumul d'activité
+CNRS (partially) refeunds you for your public transport passes and also for your Mutuelle Santé.
+You can submit your request via [Ariane](https://cnrs.employee.eu.people-doc.com/home). At the same page you can ask for the authorization for the "cuml d'activité".
 
 ## Find your Bulletin the Salaire
 L’Espace Numérique Sécurisé de l’Agent Public [ENSAP](https://ensap.gouv.fr/web/accueilnonconnecte)
