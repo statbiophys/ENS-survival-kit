@@ -4,7 +4,7 @@ which means you are a member of the Centre National de la Recherche Scientifique
 i.e. you are paid by a public organization and will have to follow certain prescriptions in order to :
 
 ## Declare days of vacation
-[Agate-Tempo](https://agate-tempo.cnrs.fr/en/)
+[Agate-Tempo](https://agate-tempo.cnrs.fr/en/) and [Tempo](https://tempo.cnrs.fr/)
 
 ## Book a Flight/Train/Hotel
 [Rydoo](https://travel.rydoo.com/)
