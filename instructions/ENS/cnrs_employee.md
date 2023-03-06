@@ -7,7 +7,7 @@ i.e. you are paid by a public organization and will have to follow certain presc
 [Agate-Tempo](https://agate-tempo.cnrs.fr/en/) and [Tempo](https://tempo.cnrs.fr/)
 
 ## Book a Flight/Train/Hotel
-[Rydoo](https://travel.rydoo.com/)
+[Goelett](https://travel.goelett.com/)
 
 ## Get a Refund or ask for Cumul d'activité
 CNRS (partially) refeunds you for your public transport passes and also for your Mutuelle Santé.
