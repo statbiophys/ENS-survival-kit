@@ -6,9 +6,6 @@ i.e. you are paid by a public organization and will have to follow certain presc
 ## Declare days of vacation
 [Agate-Tempo](https://agate-tempo.cnrs.fr/en/) and [Tempo](https://tempo.cnrs.fr/)
 
-## Book a Flight/Train/Hotel
-[Goelett](https://travel.goelett.com/)
-
 ## Get a Refund or ask for Cumul d'activité
 CNRS (partially) refeunds you for your public transport passes and also for your Mutuelle Santé.
 You can submit your request via [Ariane](https://cnrs.employee.eu.people-doc.com/home). At the same page you can ask for the authorization for the "cuml d'activité".
