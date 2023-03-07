@@ -8,7 +8,7 @@ If you...
 - ... are about to [write a paper](instructions/ENS/write_paper.md);
 - ... need specific [computer resources](instructions/ENS/computer_resources.md) (e.g. for using Matlab);
 - ... want to obtain your [ENS credentials](instructions/ENS/ens_credentials-eduroam.md) (e.g. for using eduroam);
-- ... need to fill an [ordre de mission](instructions/ENS/ordre_de_mission.md);
+- ... need to leave on a [mission](instructions/ENS/ordre_de_mission.md);
 - ... want to [work from remote](instructions/ENS/work_from_remote.md);
 - ... need to access our [data server piast](instructions/ENS/data_server-piast.md);
 - ... want to [book a room](instructions/ENS/booking_a_room.md);
