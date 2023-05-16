@@ -2,7 +2,7 @@
 
 ## Ordre de Mission
 
-Fill the [pdf form](ordre_de_mission.pdf) and send it to [missions_lpens@phys.ens.fr](missions_lpens@phys.ens.fr):
+Fill the [pdf form](instructions/ordre_de_mission.pdf) and send it to [missions_lpens@phys.ens.fr](missions_lpens@phys.ens.fr):
 
 - `Le Missionaire`: your personal informations.
 - `La Mission`: the informations about your trip plus the name of the funding line paying for the mission.
