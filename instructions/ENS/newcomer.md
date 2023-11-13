@@ -1,5 +1,5 @@
 # I am a Newcomer
-Yes, we now, it's a lot to digest. 
+Yes, we know, it's a lot to digest. 
 
 ## The (Theoretical) Minimum
 Reach out for the `Resources Humaines` (office L059, e-mail pole-rh@phys.ens.fr) and ask for 
