@@ -32,7 +32,7 @@ Host bastion
   
 Host <machine>
   ProxyJump bastion
-  HostName <machine>.lps.ens.fr
+  HostName <machine>.phys.ens.fr
   IdentityFile ~/.ssh/id_rsa
   User <username>
   ProxyCommand ssh -X <username>@bastion.phys.ens.fr -W %h:%p
@@ -41,9 +41,20 @@ From now on you can just type simply
 ```
 ssh <machine>
 ```
+Note that the address of the machine ".phys.ens.fr" could change depending on the machine.
 
 ### Copy/Paste Files
 To copy/paste a file from a remote machine to your local machine (and viceversa) you can use the following command
 ```
-scp -o ProxyCommand="ssh -W %h:%p <username>@bastion.phys.ens.fr" <username>@<machine>.lpt.ens.fr:~/path/to/file .
+scp -o ProxyCommand="ssh -W %h:%p <username>@bastion.phys.ens.fr" <username>@<machine>.phys.ens.fr:~/path/to/remote path/to/local/
+```
+Too much convoluted? I agree, that's where you can take advantage of your `config` file: 
+```
+scp <machine>:~/path/to/remote path/to/local/
+```
+this command is equivalent to the previous!
+
+If you are interested in synchronizing files across different devices you might want to consider using `rsync` instead, e. g.
+```
+rsync -avzh <machine>:~/path/to/remote path/to/local/
 ```
