@@ -12,7 +12,7 @@ ssh-keygen -t rsa -b 4096 -o  -C "<firstname>.<secondname>"
 ```
 You will be asked to provide a password. It will be required everytime you acces through bastion. This command should have created a private key `id_rsa` and a public key `id_rsa.pub` inside a hidden folder `.ssh/`.
 
-- access the link [https://aaa2.phys.ens.fr/](https://aaa2.phys.ens.fr/) with your LPENS credentials. IMPORTANT: you can access this link only within the ENS account, otherwise you will have to contact a member of the service informatique to do it for you.
+- access the link [https://aaa2.phys.ens.fr/](https://aaa2.phys.ens.fr/) with your LPENS credentials. IMPORTANT: you can access this link only within the ENS account, otherwise you will have to contact the service informatique (si@phys.ens.fr) to do it for you.
 
 - acces the page "SSH", press the button "Éditer" (bottom right), upload the file `id_rsa.pub` and save.
 
